@@ -1,0 +1,114 @@
+hey its me space
+heavily modified neversink (strict blue) made with filterblade and effort
+put everything in path of exile folder just like a normal loot filter
+>>>>>>>>>>>>>>>>sweed version is every sound file in its own folder (mlosm1st)<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+features:
+-custom audio THANKS MONK
+-mlosm (mostly erazors, some space sweed rami)
+-bull penis
+-goku
+-coffee and green tea
+-the true face of god
+-harvesting seasons
+-the body
+-cycles of guilt
+-reccommending not to use in act 1/2 due to how hiding certain items works out
+-no hands
+-lots of whats
+
+differences from normal filter
+-no chance bases highlighted by default other then leather belts
+-wisdom scrolls hidden by default
+-small (2x2, 1x3) chromatic items are visible
+-rare jewelry slightly different color
+-lots of sound clips
+-breach splinters have light beams/map markers
+-lots of light beams
+-every divination card had been retiered for ssf environment probably half stayed the same
+-highlighting high quality flasks in act 9+ and mapping
+-shaper and elder items are always dropped with light beam, map marker, and sound
+-drop only gems have a much more visible profile
+
+audio sound files needed:
+alien2test.mp3
+bullpenis.mp3
+coffee.mp3
+erazorshmm.mp3
+erazorshon.mp3
+erazorsimgay.mp3
+eyehammer.wav
+eyementor1.wav
+glassbreak.mp3
+gokulovethis.mp3
+gokunormal.mp3
+monkeurobeat.mp3
+ramimeme1.mp3
+spaceveryveryrare.mp3
+spacewhat.wav
+sweedarma.mp3
+warbandarrow.wav
+warbandharvest.wav
+warbandhuh.wav
+whyarewestillhere.mp3
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>added in v2 beta
+
+more sound clips in v2
+
+caw.mp3
+bullpenis is actually used
+dagothur.mp3
+darwenforbidden.mp3
+darwenokay.mp3
+erazorsstackeddeck.mp3
+eyeremanah1.mp3
+mommaimsorry.mp3
+ramiorchard.mp3
+sweedthebody.mp3
+warbandraider1.wav
+
+notes
+-most sounds are louder
+-rami orchard house gaming
+-bullpenis for majority of unique maps
+-did not add monk's https://puu.sh/Br1qF/e9da41e260.mp3
+-screaming eagle buff
+-replaced goku completely in shaper/elder for your mentor/rimanah from e.y.e.
+-sweedthebody used for the body i love the body, sweedarma moved to high level abyss jewels
+-darwen is for shitty unique maps and lower tier fragments
+-cage map is sorry for your mother
+-da goth ur for divine vessals
+-silver coins will be robbed
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>added in v3 beta
+
+clips
+
+coffeegreentea.mp3
+greentea.mp3
+daressointro.mp3
+dominustrueface.mp3
+dominusillusion.mp3
+edfnohands.mp3
+malachaiwhat.mp3
+skelniannoying.mp3
+whycontainit.mp3
+
+notes
+>>>i made documentation of what everything is
+>>>sweed version is every sound file in its own folder
+-green tea for 5 links
+-coffee and green tea for 6s5l items and 5 link uniques
+-i died to daresso
+-true face of god exile
+-edf abyss jewels
+-malachai chayula splinters
+-skelni likes the hand of thought and motion
+-i unhid magic jewels
+-more sounds are louder
+
+-glassbreak.mp3 isn't used anymore you can remove that
+
+-don't drop 6 link uniques i can't change the drop noise unless i do it manually and that's a bitch
+its really loud my ears hurt
