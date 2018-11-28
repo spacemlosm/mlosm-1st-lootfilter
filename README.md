@@ -6,8 +6,8 @@ where the fuck i am
 hey its me space
 heavily modified neversink (strict blue) made with filterblade and effort
 put everything in path of exile folder just like a normal loot filter
->>>>>>>>>>>>>>>>sweed version is every sound file in its own folder (mlosm1st)<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-features:
+>sweed version is every sound file in its own folder (mlosm1st)
+
 -custom audio THANKS MONK
 -mlosm (mostly erazors, some space sweed rami)
 -bull penis
